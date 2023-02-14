@@ -1,0 +1,72 @@
+[
+    {
+      "productos": [
+        {
+          "obj": {
+            "id": 2,
+            "title": "Remera",
+            "description": "Demasiada calidad",
+            "price": 350,
+            "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_837591-MLA50891162952_072022-O.webp",
+            "code": 4002,
+            "stock": 220,
+            "timestamp":1661371184644
+          }
+        }
+      ],
+      "id": 1,
+      "timestamp": 1661466381379
+    },
+    {
+      "productos": [
+        {
+          "obj": {
+            "id": 4,
+            "title": "Jeans",
+            "description": "Comodos",
+            "price": 450,
+            "thumbnail": "https://static.dafiti.com.ar/p/byh-jeans-0507-8911221-1-catalog-new.jpg",
+            "code": 4004,
+            "stock": 210,
+            "timestamp":1661371184646
+          }
+        }
+      ],
+      "id": 2,
+      "timestamp": 1661466764282
+    },
+    {
+      "productos": [
+        {
+          "obj": null
+        }
+      ],
+      "id": 3,
+      "timestamp": 1661634437066
+    },
+    {
+      "productos": [
+        {}
+      ],
+      "id": 4,
+      "timestamp": 1661634887614
+    },
+    {
+      "productos": [
+        {
+          "obj": {
+            "id": 9,
+            "title": "Pollera",
+            "description": "Ideal para el verano y primavera",
+            "price": 374,
+            "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_695462-MLA45884760134_052021-W.jpg",
+            "code": 4009,
+            "stock": 312,
+            "timestamp":16613711846451
+          }
+        }
+      ],
+      "id": 5,
+      "timestamp": 1661635822181
+    }
+  ]

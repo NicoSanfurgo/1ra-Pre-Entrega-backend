@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Gorra",
+    "description": "Buena calidad",
+    "price": 400,
+    "thumbnail": "https://i0.wp.com/miscellaneousbycaff.com.ar/wp-content/uploads/2021/05/gorra-negra-NY.jpg?fit=901%2C768&ssl=1",
+    "code": 4001,
+    "stock": 230,
+    "timestamp":1661371184643
+  },
+  {
+    "id": 2,
+    "title": "Remera",
+    "description": "Demasiada calidad",
+    "price": 350,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_837591-MLA50891162952_072022-O.webp",
+    "code": 4002,
+    "stock": 220,
+    "timestamp":1661371184644
+  },
+  {
+    "id": 3,
+    "title": "Camisa",
+    "description": "Excelente calidad",
+    "price": 550,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_954901-MLA51079815066_082022-O.jpg",
+    "code": 4003,
+    "stock": 250,
+    "timestamp":1661371184645
+  },
+  {
+    "id": 4,
+    "title": "Jeans",
+    "description": "Comodos",
+    "price": 450,
+    "thumbnail": "https://static.dafiti.com.ar/p/byh-jeans-0507-8911221-1-catalog-new.jpg",
+    "code": 4004,
+    "stock": 210,
+    "timestamp":1661371184646
+  },
+  {
+    "id": 5,
+    "title": "Chomba",
+    "description": "Agradable al uso",
+    "price": 520,
+    "thumbnail": "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/c/h/chomba-kappa-ezio-negra-39502351683wa03-1.jpg",
+    "code": 4005,
+    "stock": 100,
+    "timestamp":1661371184647
+  },
+  {
+    "id": 6,
+    "title": "Anteojos",
+    "description": "Ideal para el sol",
+    "price": 620,
+    "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/113/564/products/2-2-noah-black-mate1-2d51915ecff272958e16276832782347-1024-1024.jpg",
+    "code": 4006,
+    "stock": 20,
+    "timestamp":1661371184648
+  },
+  {
+    "id": 7,
+    "title": "Cadenita",
+    "description": "Urbano y elegante",
+    "price": 150,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_629851-MLA47668466776_092021-W.jpg",
+    "code": 4007,
+    "stock": 30,
+    "timestamp":1661371184649
+  },
+  {
+    "id": 8,
+    "title": "Ojotas",
+    "description": "Ideales para la playa",
+    "price": 250,
+    "thumbnail": "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/o/j/ojotas-adidas-adilette-shower-azul-43334528-100010gz5920001-1.jpg",
+    "code": 4008,
+    "stock": 100,
+    "timestamp":166137118450
+  },
+  {
+    "id": 9,
+    "title": "Pollera",
+    "description": "Ideal para el verano y primavera",
+    "price": 374,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_695462-MLA45884760134_052021-W.jpg",
+    "code": 4009,
+    "stock": 312,
+    "timestamp":16613711846451
+  },
+  {
+    "id": 10,
+    "title": "Bermuda",
+    "description": "Frescos y elegantes",
+    "price": 340,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_938079-MLA51497406701_092022-O.webp",
+    "code": 4010,
+    "stock": 110,
+    "timestamp":16613711846452
+  }
+]
